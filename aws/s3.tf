@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "data1233213" {
+resource "aws_s3_bucket" "data12332132" {
   # bucket is publi
   # bucket is not encrypted
   # bucket does not have access logs
